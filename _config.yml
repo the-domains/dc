@@ -1,0 +1,14 @@
+layout_spectrum: 0.5107527
+color:
+  saturation: 0.297491
+  lightness: 0.8082438
+  brandStrength: 0.4139785
+  brandColors:
+    - '#EAEAEA'
+    - '#9FB126'
+    - '#E1D082'
+    - '#899A1A'
+    - '#AD9B28'
+  rhythmicContrast: 0.562724
+typography_spectrum: 0.6182796
+name: DC
