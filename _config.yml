@@ -1,8 +1,19 @@
-layout_spectrum: 0.5107527
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.297491
-  lightness: 0.8082438
   brandStrength: 0.4139785
+  lightness: 0.8082438
   brandColors:
     - '#EAEAEA'
     - '#9FB126'
@@ -10,5 +21,6 @@ color:
     - '#899A1A'
     - '#AD9B28'
   rhythmicContrast: 0.562724
-typography_spectrum: 0.6182796
+typography_spectrum: 0.2616487
+layout_spectrum: 0.6075269
 name: DC
